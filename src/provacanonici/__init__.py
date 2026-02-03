@@ -1,3 +1,4 @@
 def main() -> None:
-    print("ciao")
-print("ad alessandro piacciono i femboy")
+    while True:
+        print("Porco Dio")
+
