@@ -1,3 +1,3 @@
 def main() -> None:
-    print("Halo Boss")
+    print("Halo Boss!")
 
